@@ -1,0 +1,35 @@
+_repo: The-Ghost-Girl_26986
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stacpoole, H. De Vere (Henry De Vere)
+    alias: Stacpoole, Henry De Vere
+    birthdate: 1863
+    deathdate: 1951
+    gutenberg_agent_id: '219'
+    url: http://www.gutenberg.org/2009/agents/219
+    wikipedia: http://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole
+description: This is an electronic edition of the complete book complemented by author
+  biography. This book features a table of contents linked to every chapter. The book
+  was designed for optimal navigation on the Kindle, PDA, Smartphone, and other electronic
+  readers. It is formatted to display on all electronic devices including the Kindle,
+  Smartphones and other Mobile Devices with a small display.
+gutenberg_issued: '2008-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26986'
+  lccn: '18018341'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Charleston (S.C.) -- Fiction'
+- !lcsh 'Guardian and ward -- Fiction'
+title: The Ghost Girl
+url: http://www.gutenberg.org/ebooks/26986
